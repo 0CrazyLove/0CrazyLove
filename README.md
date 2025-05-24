@@ -62,7 +62,8 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-    <img width="30px" src="https://ohmyz.sh/img/ohmyzsh-original-logo.svg" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Z_Shell_Logo_Color_Horizontal.svg" />
+
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
