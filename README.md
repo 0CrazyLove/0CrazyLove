@@ -50,7 +50,7 @@
   <br>
   <br>
   <kbd>
-    <kbd>System, Networking & Deployment</kbd>
+    <kbd>System & Deployment</kbd>
     <br>
     <br>
     <img width="30px" src="https://skillicons.dev/icons?i=linux" />
