@@ -38,7 +38,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  
     <img width="30px" src="c/javascript/javascript-original.svg" />
-    <img src="https://skillicons.dev/icons?i=ts" />
+    <img width="30px" src="https://skillicons.dev/icons?i=ts" />
 
   </kbd>
   <kbd>
