@@ -1,9 +1,9 @@
 **Acerca de mi!**
 
-- 💻 Actualmente aprendiendo y desarrollando proyectos en C# (.NET), PHP y bases de datos con MySQL
-- 🌱 Me estoy formando como desarrollador full stack, con enfoque fuerte en el backend
-- ⚙️ Estoy interesado en programación orientada a objetos, desarrollo web, Spring Boot y buenas prácticas
-- 🧠 Me apasiona aprender, mejorar cada día y compartir lo que sé con otros programadores
+- 💻 Actualmente aprendiendo y desarrollando proyectos en C# (.NET), y bases de datos con MySQL.
+- 🌱 Me estoy formando como desarrollador full stack, con enfoque fuerte en el backend.
+- ⚙️ Estoy interesado en programación orientada a objetos, desarrollo web y buenas prácticas.
+- 🧠 Me apasiona aprender, mejorar cada día y compartir lo que sé con otros developers.
 
 
 
