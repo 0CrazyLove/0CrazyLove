@@ -45,8 +45,7 @@
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img width="30px" src="https://skillicons.dev/icons?i=mysql" />
   </kbd>
   <br>
   <br>
