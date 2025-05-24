@@ -18,7 +18,7 @@
 
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>Lenguajes de programacion</kbd>
+    <kbd>Programing Languages</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
