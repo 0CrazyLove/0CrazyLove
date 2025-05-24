@@ -73,11 +73,3 @@
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-
-
-
-
------
-Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
-
-Last Edited on: 20/01/2022
