@@ -1,10 +1,11 @@
-**About Me!**
+**Acerca de mi!**
 
-- 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
-- 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
-- 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
-- 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
+💻 Actualmente aprendiendo y desarrollando proyectos en C# (.NET), PHP y bases de datos con MySQL
+🌱 Me estoy formando como desarrollador full stack, con enfoque fuerte en el backend
+⚙️ Estoy interesado en programación orientada a objetos, desarrollo web, Spring Boot y buenas prácticas
+🧠 Me apasiona aprender, mejorar cada día y compartir lo que sé con otros programadores
+
+
 
 
 <p style="display: inline-block;" align="center">
