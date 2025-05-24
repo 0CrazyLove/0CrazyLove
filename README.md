@@ -56,8 +56,7 @@
     <img width="30px" src="https://skillicons.dev/icons?i=linux" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </kbd>
-  <kbd>
-
+  
   <kbd>
     <kbd>Tools</kbd>
     <br>
