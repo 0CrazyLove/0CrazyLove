@@ -64,10 +64,9 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
-    <img width="30px" src="https://commons.wikimedia.org/wiki/Special:FilePath/Fish‑shell‑logo‑ascii.svg" alt="Fish Shell logo" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
     <img width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" /> 
-    <img width="30px" src="https://azuredata.microsoft.com/images/azure-data-studio.svg" /> 
+   <img width="30px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-docs/azure-data-studio.svg"/> 
   </kbd>
 
 </p>
