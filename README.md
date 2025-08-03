@@ -46,6 +46,7 @@
     <br>
     <br>
     <img width="30px" src="https://skillicons.dev/icons?i=mysql" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </kbd>
   <br>
   <br>
