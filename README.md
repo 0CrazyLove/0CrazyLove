@@ -56,8 +56,8 @@
     <br>
     <img width="30px" src="https://skillicons.dev/icons?i=linux" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="URL_DEL_LOGO.svg" alt="Arch Linux logo" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="30px" src="https://svgrepo.com/show/341619/arch-linux.svg" alt="Arch Linux logo" />
   </kbd>
   
   <kbd>
