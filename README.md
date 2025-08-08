@@ -58,7 +58,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img width="30px" src="https://svgrepo.com/show/341619/arch-linux.svg" alt="Arch Linux logo" />
-    <img width="30px" src="https://commons.wikimedia.org/wiki/Special:FilePath/Kali-dragon-icon.svg" />
 
   </kbd>
   
