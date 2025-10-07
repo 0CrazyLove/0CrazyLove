@@ -8,10 +8,10 @@
 
 **Acerca de mi!**
 
-- 💻 Actualmente aprendiendo y desarrollando proyectos en C# (.NET), y bases de datos con MySQL.
-- 🌱 Me estoy formando como desarrollador full stack, con enfoque fuerte en el backend.
-- ⚙️ Estoy interesado en programación orientada a objetos, desarrollo web y buenas prácticas.
-- 🧠 Me apasiona aprender, mejorar cada día y compartir lo que sé con otros developers.
+- Actualmente aprendiendo y desarrollando proyectos en C# (.NET), y bases de datos con SQL Server.
+- Me estoy formando como desarrollador full stack, con enfoque fuerte en el backend.
+- Estoy interesado en el desarrollo web y buenas prácticas.
+- Me apasiona aprender, mejorar cada día y compartir lo que sé con otros developers.
 
 
 
@@ -45,7 +45,6 @@
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" src="https://skillicons.dev/icons?i=mysql" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </kbd>
   <br>
