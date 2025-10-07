@@ -68,7 +68,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
     <img width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" /> 
-   <img width="30px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-docs/azure-data-studio.svg"/> 
   </kbd>
 
 </p>
