@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-  <img src="/assets/phot1.webp" alt="Crazy banner" width="600" style="border-radius:15px;">
+  <img src="https://raw.githubusercontent.com/0CrazyLove/0CrazyLove/main/assets/phot1.webp" alt="Crazy banner" width="600" style="border-radius:15px;">
 </div>
 
 
@@ -76,7 +76,7 @@
 </td>
 <td valign="top">
 
-<img src="/assets/phot2.webp" alt="Crazy banner" width="200" style="border-radius:15px;">
+<img src="https://raw.githubusercontent.com/0CrazyLove/0CrazyLove/main/assets/phot2.webp" alt="Crazy banner" width="200" style="border-radius:15px;">
 
 </td>
 </tr>
